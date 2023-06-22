@@ -15,7 +15,7 @@
   ```
 
 - Start making models:
-  - definign sources in 
+  - defining sources in 
     ``` sources.yml ```
   - making the staging layer in ``` src ``` folder
   - Making dimensions and facts tables in ``` dim ``` and ``` fct ``` folders
